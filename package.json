@@ -1,7 +1,7 @@
 {
   "name": "zola",
   "version": "0.1.0",
-  "homepage": "https://sabin18.github.io/zola",
+  "homepage": "https://sabin18.github.io/nyungwecultural",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
