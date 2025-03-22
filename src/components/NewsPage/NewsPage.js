@@ -16,7 +16,7 @@ const NewsPage = () => {
               key={news.id}
               className="animated fadeInUp"
             >
-              <SingleNewsOne news={news} />
+            <SingleNewsOne news={news} />
             </Col>
           ))}
         </Row>
