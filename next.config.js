@@ -17,7 +17,6 @@ webpack: (config, { isServer }) => {
     }],
   });
 
-  
   return config;
 },
 }
