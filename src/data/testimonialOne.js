@@ -13,7 +13,7 @@ const testimonialOne = {
       id: 1,
       image: "profile-2.jpg",
       review: 5,
-      description:"recently had the pleasure of going on a tour with Nyungwe Culture village, led by the incredible guide, Eric. I must say, it was an unforgettable experience that exceeded all my expectations.From the moment we met Eric, his enthusiasm and passion for adventure were infectious. He greeted us with a warm smile and made us feel instantly comfortable. Throughout the entire tour, Eric's knowledge and expertise shone through, ensuring that we had the best possible experience.Eric's attention to detail was impeccable. He carefully planned every aspect of the tour, ensuring that we got to see all the must-visit attractions while also incorporating some hidden gems off the beaten path. His ability to strike a perfect balance between adventure and relaxation was remarkable.",
+      description:"Visiting Nyungwe Cultural Village was truly a once-in-a-lifetime experience. From the warm welcome to the vibrant dances and inspiring stories,I felt deeply connected to Rwanda’s culture and community.Thank you for sharing your traditions with such joy and pride!",
       client: {
         name: "Shirley Smith",
         role: "Customer",
@@ -23,7 +23,7 @@ const testimonialOne = {
       id: 2,
       image: "profile-3.jpg",
       review: 5,
-      description:"I am delighted to write this testimonial for Nyungwe Culture village and their exceptional services, particularly for their outstanding team member, John. From the moment I contactedNyungwe Culture village, I was met with professionalism, efficiency, and a genuine passion for providing unforgettable experiences.John's dedication to ensuring customer satisfaction was evident in every interaction. He went above and beyond to tailor our adventure to our specific needs and preferences. His extensive knowledge of various destinations and activities allowed us to make informed decisions and create a truly unique and memorable experience.Throughout the planning process, John displayed excellent communication skills, promptly responding to our inquiries and providing detailed information.",
+      description:"I was genuinely moved by the authenticity and passion at Nyungwe Cultural Village.Every activity, from the local crafts to the storytelling, was so meaningful.You’ve created a beautiful space where culture is truly alive.It’s an experience I’ll carry with me forever—thank you!",
       client: {
         name: "Kevin Martin",
         role: "Customer",
@@ -34,7 +34,7 @@ const testimonialOne = {
       image: "profile_1.jpg",
       review: 3,
       description:
-        "I am thrilled to share my incredible experience withNyungwe Culture village. and how it has created some of the happiest moments of my life. From start to finish, this company has exceeded all my expectations and provided me with unforgettable adventures.First and foremost, the team atNyungwe Culture village. is exceptional. They are knowledgeable, friendly, and passionate about what they do. From the moment I reached out to them, they were prompt in responding to my inquiries and took the time to understand my preferences and interests. Their attention to detail and personalized approach made me feel valued as a customer.",
+        "Spending time in Nyungwe Cultural Village was both eye-opening and heartwarming.The hospitality, the music, the food—everything was filled with love and care.I learned so much about the Rwandan way of life and felt like family.You’ve made a lasting mark on my heart—keep shining!",
       client: {
         name: "Jessica Brown",
         role: "Customer",
