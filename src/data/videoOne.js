@@ -4,7 +4,7 @@ const videoOne = {
   bg,
   videoId: "2p9Qt60W91Q",
   tagline: "Are you ready to travel?",
-  title: "Nyungwe Culture village  is a Rwanda Leading Tour company",
+  title: "Nyungwe Cultural Village is a top cultural tourism spot in Rwanda, showcasing heritage and community spirit",
   iconBoxes: [
     { id: 1, icon: "icon-deer", title: "Wildlife \n Tours" },
     { id: 2, icon: "icon-paragliding", title: "Paragliding \n Tours" },
