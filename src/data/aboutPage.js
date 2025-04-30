@@ -5,7 +5,7 @@ const aboutPage = {
   tagline: "Learn about us",
   title: "Dare to Explore with Nyungwe Culture village",
   text1: "A Simply Perfect Place to Get Lost",
-  text2:"Nyungwe Culture village is a tourism company based in Rwanda.We specialize in providing unique and unforgettable adventure experiences to both local and international travelers.Our team of experienced professionals is dedicated to creating tailor-made itineraries that showcase the natural beauty and cultural richness of Rwanda.",
+  text2:"Discover Nyungwe Cultural Village – where tradition, nature, and community meet.Experience authentic Rwandan culture through storytelling, traditional dances, local crafts, and the warm hospitality of the community. Nestled near Nyungwe Forest, this village offers a unique chance to connect with heritage, support local livelihoods, and explore the rich cultural roots of Rwanda.",
   progress: [
     // {
       // 140706375
