@@ -41,7 +41,7 @@ const popularTours = [
   },
   {
     id: 5,
-    image: "lac_kivu.jpg",
+    image: "lackivu.jpg",
     title: "Boat Riding on lake Kivu",
     superb: "8.0",
     rate: "250",
@@ -51,7 +51,7 @@ const popularTours = [
   },
   {
     id: 6,
-    image: "Rwanda-culture.jpeg",
+    image: "traditiondancing.jpg",
     title: "Traditional dancing ",
     superb: "8.0",
     rate: "40",
@@ -82,7 +82,7 @@ const popularTours = [
   },
   {
     id: 9,
-    image: "drums.jpg",
+    image: "wedding.jpg",
     title: "Traditional Rwandan wedding ceremony experience ",
     superb: "8.0",
     rate: "40",
@@ -131,7 +131,7 @@ const popularTours = [
   },
   {
     id: 14,
-    image: "weaving.jpg",
+    image: "poetry.jpg",
     title: "POTTERY MAKING",
     superb: "8.0",
     description:"Guided by local artisans, this hands-on pottery experience connects you with tradition and creativity in the heart of a vibrant community. Perfect for families, dreamers, and curious minds, come turn clay into a story you will take home.",
