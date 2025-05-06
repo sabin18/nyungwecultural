@@ -121,7 +121,7 @@ const popularTours = [
   },
   {
     id: 13,
-    image: "weaving.jpg",
+    image: "waving.jpg",
     title: "Weaving experience",
     superb: "8.0",
     description:"These include ecological and cultural trips, study, sport and leisure tours that focus on the Bigogwe and surrounding area. The cows in Bigogwe are typically bred for their milk and cheese, and they are often seen grazing in the lush green pastures that cover the Bigogwe countryside. This pastoral scene, along with the stunning mountain landscapes has long been a draw for tourists seeking a peaceful and scenic getaway. Many visitors come to Bigogwe specifically to experience the country's cow culture and explore the villages that dot the countryside. Bigogwe also offers a range of outdoor activities that take advantage of its natural beauty, such as hiking, climbing. Whether visitors are seeking a relaxing vacation or an adventure-filled trip, Bigogwe's green landscapes and unique culture are sure to make a lasting impression.",
