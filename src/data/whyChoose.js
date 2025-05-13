@@ -7,7 +7,7 @@ const whyChoose = {
   toggleText: " Trips \n & tours",
   title: "Why Choose Nyungwe Culture village",
   tagline: "Our benefit lists",
-  description:"Nyungwe Culture village  is community based Tourism Company located in western Province of Rwanda,Nyamasheke District for the purpose of promoting cultural tourism and preserve Rwandan Cultural and biodiversity conservation through local community empowerment. ",
+  description:"Nyungwe Cultural Village is dedicated to preserving and showcasing Rwandan traditions through various cultural activities. The village provides a platform for local communities to engage in sustainable tourism, offering visitors a chance to experience authentic Rwandan culture while supporting the local economy.",
   lists: [
     {
       id: 1,
