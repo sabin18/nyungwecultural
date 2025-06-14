@@ -120,7 +120,7 @@ const popularTours = [
     meta: ["2 HOURS", "RUSIZI"],
   },
   {
-    id: 12,
+    id: 13,
     image: "waving.jpg",
     title: "Weaving experience",
     superb: "8.0",
