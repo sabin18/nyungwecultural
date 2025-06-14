@@ -7,19 +7,19 @@ const mainSliderData = [
     id: 1,
     bg: bg1,
     subTitle: "Where Would You Like To Go?",
-    title: "Travel & Adventures",
+    title: "Nyungwe culture Village",
   },
   {
     id: 2,
     bg: bg2,
     subTitle: "Where Would You Like To Go?",
-    title: "Travel & Adventures",
+    title: "Nyungwe culture Village",
   },
   {
     id: 3,
     bg: bg3,
     subTitle: "Where Would You Like To Go?",
-    title: "Travel & Adventures",
+    title: "Nyungwe culture Village",
   },
 ];
 
