@@ -9,7 +9,7 @@ const aboutOne = {
   phone: "+250788685393/0786611882",
   discount: "",
   tagline: "Get to know us",
-  title: "Plan Your Trip with Nyungwe Culture village",
+  title: "Plan Your Trip with Nyungwe Cultural village",
   destination:"Known as the land of a thousand hills, Rwanda’s stunning scenery and warm, friendly people offer unique experiences in one of the most remarkable countries in the world. It is blessed with extraordinary biodiversity, with incredible wildlife living throughout its volcanoes, montane rainforest and sweeping plains.Travellers come from far and wide to catch a glimpse of the magnificent gorillas, yet there is so much more to see and experience.",
   points: [
     "As guardians of many iconic species, Rwanda is committed to safeguarding their existence within the four National Parks.",
