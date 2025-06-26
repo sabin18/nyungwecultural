@@ -17,14 +17,14 @@ const SingleDestination = ({ destination = {} }) => {
             {subTitle && (
               <p className="destinations-one__sub-title">{subTitle}</p>
             )}
-            <h2 className="destinations-one__title">
-              <Link href={{ pathname: "/tour-details", query: { id:id } }}>{title}</Link>
-            </h2>
           </div>
           <div className="destinations-one__button">
             <a href="#">Price: {rate} $</a>
           </div>
         </div>
+         <h4 className="destinations-one__title" >
+              <Link href={{ pathname: "/tour-details", query: { id:id } }} style={{color:"#003554",fontSize: "25px"}}>{title}</Link>
+            </h4>
       </div>
     </Col>
   );
