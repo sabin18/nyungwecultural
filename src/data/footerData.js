@@ -1,9 +1,9 @@
 import logo from "@/images/resources/nyungweculture.jpg";
 
 const social = [
-  { icon: "fa-facebook-square", link: "https://www.facebook.com/profile.php?id=61552967395485" },
-  { icon: "fa-twitter", link: "https://twitter.com/adventure_64364" },
-  { icon: "fa-instagram", link: "https://www.instagram.com/adventureforyou9/" },
+  // { icon: "fa-facebook-square", link: "https://www.facebook.com/profile.php?id=61552967395485" },
+  { icon: "fa-twitter", link: "https://twitter.com/@nyungwevillage" },
+  { icon: "fa-instagram", link: "https://www.instagram.com/iwacuafricatours?igsh=MTIwaGpwMGh4c2tzZA==" },
 ];
 
 const footerData = {
@@ -23,13 +23,13 @@ const footerData = {
     {
       id: 2,
       icon: "fas fa-envelope",
-      content: "nyungweculturalvillage@gmail.com",
+      content: "infonyungweculturalvillage@gmail.com",
       subHref: "mailto",
     },
     {
       id: 3,
       icon: "fas fa-map-marker-alt",
-      content: "Western Province \n RWANDA",
+      content: "Western province,Nyamasheke district,RWANDA",
     },
   ],
   companies: [

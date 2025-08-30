@@ -43,7 +43,7 @@ const navItems = [
   },
   {
     id: 3,
-    name: "Tours",
+    name: "Where to stay",
     href: "/tours",
     subNavItems: [
       // { id: 1, name: "Tours", href: "/tours" },
@@ -98,7 +98,7 @@ const headerData = {
     {
       id: 2,
       icon: "icon-at",
-      content: "nyungweculturalvillage@gmail.com",
+      content: "infonyungweculturalvillage@gmail.com",
       subHref: "mailto",
     },
   ],
