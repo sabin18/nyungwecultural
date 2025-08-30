@@ -6,7 +6,7 @@ const popularTours = [
     superb: "8.0",
     rate: "30",
     description:"Discover the secrets of tea picking, sip the freshest brews, and experience pleasant routine of plantation life. It’s more than a visit, it’s a journey into tradition, taste, and an adventure into practice. Visit the place where your favorite cup begins.",
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
     col: 3,
   },
   {
@@ -16,7 +16,7 @@ const popularTours = [
     superb: "8.0",
     rate: "30",
     description:"Our guided village walk will take you through the heart of a traditional Rwandan village, where you'll have the opportunity to observe daily activities, interact respectfully with residents, and gain insight into the social structures and customs that shape community life. See how people live, work, and interact, and learn about the unique architecture and traditions of the region surrounding Nyungwe.",
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
     col: 3,
   },
   {
@@ -46,7 +46,7 @@ const popularTours = [
     superb: "8.0",
     rate: "40",
     description:"Immerse yourself in the vibrant rhythms and captivating movements of traditional Rwandan dance! More than just entertainment, these dances are a powerful expression of Rwandan culture, history and spirit",
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
     col: 6,
   },
   {
@@ -56,7 +56,7 @@ const popularTours = [
     superb: "8.0",
     rate: "30",
     description:"Discover the remarkable process of traditional Rwandan banana beer making and engage in a truly authentic tasting experience! Banana beer, or urwagwa, is more than just a beverage in Rwanda; it's a cultural tradition deeply rooted in community and celebration. At Nyungwe Cultural Village, you'll have the unique opportunity to witness firsthand the age-old methods of crafting this local brew. Our knowledgeable guides will walk you through each step, from the selection of specific banana varieties to the natural fermentation process. You'll learn about the significance of urwagwa in Rwandan social gatherings, ceremonies, and daily life",
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
     col: 4,
    
   },
@@ -68,7 +68,7 @@ const popularTours = [
     rate: "35",
     description:"Discover the art behind traditional craft making, learn from skilled hands, and create something uniquely yours. Surrounded by vibrant colors and rich culture, you won’t just watch, you'll become part of the story. Come and craft a memory.",
     col: 6,
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
   },
   {
     id: 8,
@@ -76,7 +76,7 @@ const popularTours = [
     title: "Traditional Rwandan wedding ceremony experience ",
     superb: "8.0",
     rate: "40",
-    meta: ["1 Day-","RUSIZI"],
+    meta: [],
     col: 4,
   },
   {

@@ -81,7 +81,7 @@ const Header = ({ pageTitle }) => {
                       <Image
                         src={pageTitle === "Home Two" ? logo2.src : logo.src}
                         alt=""
-                        style={{width:"100%",height:"50px"}}
+                        style={{width:"100%",height:"40px"}}
                       />
                     </a>
                   </Link>

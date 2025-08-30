@@ -53,7 +53,7 @@ const TourDetailsOne = () => {
                         <h6>{tourType}</h6>
                       </div>
                     </li>
-                    <li>
+                    {/* <li>
                       <div className="icon">
                         <span className="icon-place"></span>
                       </div>
@@ -61,7 +61,7 @@ const TourDetailsOne = () => {
                         <p>Location</p>
                         <h6>{tours?.meta[1]}</h6>
                       </div>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
